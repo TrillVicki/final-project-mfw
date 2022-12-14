@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 50px;
+    margin: auto;
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.fa-brands:hover {
+color: #00cc00;
+}
+
+.fa-socials {
+    color: red
+}
+
+
