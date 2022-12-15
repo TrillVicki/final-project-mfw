@@ -1,3 +1,9 @@
+body {    @import url('https://fonts.googleapis.com/css2?family=Jaldi&family=La+Belle+Aurore&family=Open+Sans&family=Orbitron:wght@500&family=Poppins:wght@300&display=swap);
+
+    font-family: 'Orbitron', sans-serif;
+    font-size: larger;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -12,11 +18,24 @@ img {
     margin: auto;
 }
 
-
 img {
     max-width: 100%;
     max-height: 100%;
 }
+
+a.one:link {color: forestgreen;}
+a.one:visited {color: blueviolet;}
+a.one:hover {font-size: 150%;}
+
+
+}
+
+input,textarea {
+    background-color: yellowgreen
+}
+    
+    
+
 
 
 .fa-brands:hover {
