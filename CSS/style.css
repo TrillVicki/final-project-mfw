@@ -1,7 +1,11 @@
-body {    @import url('https://fonts.googleapis.com/css2?family=Jaldi&family=La+Belle+Aurore&family=Open+Sans&family=Orbitron:wght@500&family=Poppins:wght@300&display=swap);
 
+   
+ body {
     font-family: 'Orbitron', sans-serif;
-    font-size: larger;
+    
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'La Belle Aurore', cursive;
 }
 
 * {
@@ -26,24 +30,10 @@ img {
 a.one:link {color: forestgreen;}
 a.one:visited {color: blueviolet;}
 a.one:hover {font-size: 150%;}
-
-
-}
-
-input,textarea {
-    background-color: yellowgreen
-}
     
-    
-
-
-
-.fa-brands:hover {
-color: #00cc00;
+i {
+    color: firebrick;
 }
 
-.fa-socials {
-    color: red
-}
 
 
