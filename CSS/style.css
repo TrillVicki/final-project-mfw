@@ -30,11 +30,6 @@ img {
 a.one:link {color: forestgreen;}
 a.one:visited {color: blueviolet;}
 a.one:hover {font-size: 150%;}
-
-
-input,textarea {
-    background-color: yellowgreen
-}
     
 i {
     color: firebrick;
